@@ -46,12 +46,12 @@ This project is built under Microsoft Engage Mentorship Program-2021 by Aditi Ag
 
 ## Demo link of the project
 
-https://teams-cl.herokuapp.com/
+https://teams-msclone.herokuapp.com/
 
 ### Prerequisites
 
 You have to install [Node.js](https://nodejs.org/en/) in your machine.
-(Refer youtube tutotials if you face any issue)
+(Refer youtube tutorials if you face any issue)
 
 ## How to run this Project on Local System ?
 
@@ -71,7 +71,7 @@ Heroku.com
 
 
 ## Link and Steps to run the deployed App :
-Link: https://teams-cl.herokuapp.com/
+Link: https://teams-msclone.herokuapp.com/
 
 <br />Steps:
 * Open the link in your browser.
