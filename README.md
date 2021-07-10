@@ -51,11 +51,11 @@ https://teams-msclone.herokuapp.com/
 ### Prerequisites
 
 You have to install [Node.js](https://nodejs.org/en/) in your machine.
-(Refer youtube tutorials if you face any issue)
+
 
 ## How to run this Project on Local System ?
 
-* Download the Zip. (Refer youtube tutorials to clone/download zip if you face any issue)
+* Download the Zip. 
 * Extract the folder
 * Open the above folder on any editor you prefer to use. Visual Studio Code was used for this project.
 * In script.js file, change the port of peer variable. Replace it from '443' to '3030'
@@ -67,7 +67,7 @@ You have to install [Node.js](https://nodejs.org/en/) in your machine.
 * Wohoo! You can see your peer. You managed to run the webapp on your local system.
 
 ## Platform Used to deploy the WebApp:
-Heroku.com
+Heroku
 
 
 ## Link and Steps to run the deployed App :
