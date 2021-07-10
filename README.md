@@ -1,0 +1,84 @@
+# Microsoft Teams Clone
+
+Greetings to the readers! This is an interactive videoconferencing web app that is clone of the application named "MICROSOFT TEAMS". It is used to deliver a platform to the user in which one can easily communicate, share content, hold meetings/classes, chat with groups all around. 
+
+This project is built under Microsoft Engage Mentorship Program-2021 by Aditi Agrawal.
+
+
+## Built Using: 
+ 1) EJS
+ 2) CSS
+ 3) Bootstrap
+ 4) JavaScript
+ 5) jQuery
+ 6) Node.js
+ 7) Express.js
+ 8) WebRTC
+ 9) Socket.IO
+ 10) PeerJs
+ 11) uuid
+ 12) Typed.js
+ 13) Particle.js
+ 14) Tilt.jquery.js
+ 
+
+## Features of the Video Conferencing Application:
+  1) Create a new Meeting feature on Home Page
+  2) Join the meeting using meeting link on Home Page
+  3) Video Call One-to-one
+  2) Invite via link feature
+  3) Group Video-Call (Connection upto 6 users is possible, but it works perfectly for upto 4 users. Hangs a little when 6 users join)
+  4) User can Mute/Unmute himself (Audio Controls)
+  5) User can Mute/Unmute other users on call during Group as well as One-on-One Call
+  6) User can turn on/off his own Video.(Video Controls)
+  7) Chat Feature during both One-on-One and Group Call
+  8) ScreenShare allowed during One-on-One Call
+  9) ScreenShare during Group Call is only visible to one of the Users (To be Enhanced)
+  10) Picture-in-Picture mode allowed
+  11) User can switch anyone's video (including himself) to Full Screen mode.
+  12) User can Play/Pause anyone's video (Loop Controls)
+  13) User can Leave the Meeting
+  14) User can record their video
+  15) User can record the whole Screen
+  16) Record the Meeting Feature
+  17) User Can Save the Recording Locally
+
+
+## Demo link of the project
+
+https://teams-cl.herokuapp.com/
+
+### Prerequisites
+
+You have to install [Node.js](https://nodejs.org/en/) in your machine.
+(Refer youtube tutotials if you face any issue)
+
+## How to run this Project on Local System ?
+
+* Download the Zip. (Refer youtube tutorials to clone/download zip if you face any issue)
+* Extract the folder
+* Open the above folder on any editor you prefer to use. Visual Studio Code was used for this project.
+* In script.js file, change the port of peer variable. Replace it from '443' to '3030'
+* Open the terminal and check the directory and path.
+* Install essential dependencies of node by running the command "npm i"
+* Run command "node server.js"
+* Open Google Chrome (preferred) and go to the link "localhost:3030/"
+* Copy this link and open it in a new tab.
+* Wohoo! You can see your peer. You managed to run the webapp on your local system.
+
+## Platform Used to deploy the WebApp:
+Heroku.com
+
+
+## Link and Steps to run the deployed App :
+Link: https://teams-cl.herokuapp.com/
+
+<br />Steps:
+* Open the link in your browser.
+* Click on "Create New Meeting". Unique room id will be generated each time when you open the above link.
+* Enter your name.
+* Give permission to your camera and microphone when using this app for the first time.
+* Click on "Participants". Copy the link just prompted on screen.
+* Share this unique link with your friends with whom you want to talk. They can open the link in browser.
+* Or they may paste the link in "Enter the meeting link here" input and then click on "Join Meeting"
+
