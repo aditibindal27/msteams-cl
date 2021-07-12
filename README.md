@@ -45,13 +45,25 @@ Greetings to the readers! This is an interactive videoconferencing web app that 
   18) Great UI/UX
   19) Moving the Record dialogbox is possible
 
-## Demo link of the project
+## Screenshots 📸
 
-https://youtu.be/vtVxZeEzRT8
+### Home Page
+![Home Page](https://user-images.githubusercontent.com/68473349/125276321-b8e54a00-e32d-11eb-9ca7-cc2a5a3be29c.png)
+
+### During the Video call
+![on Call](https://user-images.githubusercontent.com/68473349/125280440-ac172500-e332-11eb-9be2-9e30b0869734.png)
+
+### Chat Box
+![Chat](https://user-images.githubusercontent.com/68473349/125281102-732b8000-e333-11eb-9eef-52505b22d840.png)
+
+### Screenshare
+![ScreenShare](https://user-images.githubusercontent.com/68473349/125281369-c4d40a80-e333-11eb-8671-52501b976f34.png)
+### Floating Record Block Button
+![Float Record](https://user-images.githubusercontent.com/68473349/125281726-3318cd00-e334-11eb-84cc-3f56284c1220.png)
 
 ## Agile Methodology Implementation
 
-| Week          | Bugs and Deliverables |         
+| Week          | Bugs and Deliverables |          | 
 | ------------- | ------------- | 
 | 1     | Designed, planned and researched for the technologies, APIs about the solution | 
 | 2-3    | Built the UI, minimum video-calling functionality along with audio/video controls,recording, screenshare etc. |  
@@ -89,8 +101,4 @@ Link: https://teams-msclone.herokuapp.com/
 * `Click` on "Participants". Copy the link just prompted on screen.
 * `Share` this unique link with your friends with whom you want to talk. They can open the link in browser.
 * Or they may paste the link in "Enter the meeting link here" input and then click on "Join Meeting"
-
-
-
-
 
