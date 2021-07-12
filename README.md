@@ -3,7 +3,8 @@
 Greetings to the readers! This is an interactive videoconferencing web app that is clone of the application named "MICROSOFT TEAMS". It is used to deliver a platform to the user in which one can easily communicate, share content, hold meetings/classes, chat with groups all around. 
 
 `This project is built under Microsoft Engage Mentorship Program-2021 by Aditi Agrawal.`
-
+## Demo link of the project
+https://youtu.be/vtVxZeEzRT8
 
 ## Built Using: 
  1) EJS
@@ -63,7 +64,7 @@ Greetings to the readers! This is an interactive videoconferencing web app that 
 
 ## Agile Methodology Implementation
 
-| Week          | Bugs and Deliverables |          | 
+| Week          | Bugs and Deliverables |          
 | ------------- | ------------- | 
 | 1     | Designed, planned and researched for the technologies, APIs about the solution | 
 | 2-3    | Built the UI, minimum video-calling functionality along with audio/video controls,recording, screenshare etc. |  
