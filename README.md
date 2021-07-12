@@ -51,7 +51,7 @@ https://youtu.be/vtVxZeEzRT8
 
 ## Agile Methodology Implementation
 
-| Week          | Bugs and Deliverables |          | 
+| Week          | Bugs and Deliverables |         
 | ------------- | ------------- | 
 | 1     | Designed, planned and researched for the technologies, APIs about the solution | 
 | 2-3    | Built the UI, minimum video-calling functionality along with audio/video controls,recording, screenshare etc. |  
